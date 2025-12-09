@@ -1,0 +1,2 @@
+# Namyang
+Learning github 
